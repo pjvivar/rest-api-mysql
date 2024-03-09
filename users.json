@@ -1,0 +1,23 @@
+{"d079c483-8b6a-404e-9d22-dfd5c08a934f":{
+    "id":"d079c483-8b6a-404e-9d22-dfd5c08a934f",
+    "username":"pjvivar",
+    "email":"peejaayvivar@gmail.com",
+    "password":"$2a$10$EtQn.Q6l426ZnJeSdXLrCecjZ/hiNsyBOVqE1tWALSOQzQWRr5Hk2"},
+"52a3428e-a1ae-4b01-850a-c1c6ce0a3766":{
+    "id":"52a3428e-a1ae-4b01-850a-c1c6ce0a3766",
+    "username":"test1",
+    "email":"test@gmail.com",
+    "password":"$2a$10$eBVvtCv8vFfCLpnnG1UGSOLI6Bwc5v4f.mXag1/FtfRlpjwqrl72K"},
+    "e54174c2-2a49-4e7b-83bf-80eba3623a83":
+    {"id":"e54174c2-2a49-4e7b-83bf-80eba3623a83",
+    "username":"awh",
+    "email":"awh@gmail.com",
+    "password":"$2a$10$PE9k.Sl0OxjW5ksS89MDReDzZSW1i9JeSW0SSLZ8Wi1vL29ORaFM."},
+    "19727533-b3da-4b4c-8aa3-6bd336101b81":{"id":"19727533-b3da-4b4c-8aa3-6bd336101b81",
+    "username":"test2",
+    "email":"test2@gmail.com",
+    "password":"$2a$10$KetC6CnnBor/SzttFPrIvuThgJMPHLbBKbpCYFrN1l8ERfsSc6Lku"},
+    "4a32b01e-c500-467b-aac8-4ba77f4dc12a":{"id":"4a32b01e-c500-467b-aac8-4ba77f4dc12a",
+    "username":"testsql",
+    "email":"testsql@gmail.com",
+    "password":"$2a$10$J08xIJGKrsN1.UmHQfSEJOOfriNlA59OES/PaM05gf3kDYETkYufW"}}
